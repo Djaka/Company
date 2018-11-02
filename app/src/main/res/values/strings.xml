@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Company</string>
+    <string name="emp_nik">Nik</string>
+    <string name="emp_name">Name</string>
+    <string name="emp_birth_date">Birth Date</string>
+    <string name="emp_birth_place">Birth Place</string>
+    <string name="emp_level">Level</string>
+    <string name="emp_status">Status</string>
+    <string name="emp_foto">Foto</string>
+    <string name="btn_save">Save</string>
+    <string name="str_required">Must be field</string>
+    <string name="str_maxlength">Must be field</string>
+</resources>
